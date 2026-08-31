@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://buildwithvictor.github.io/victor-builds/sitemap.xml
