@@ -9,7 +9,7 @@ PRIMARY PAGES
 - about.html
 - contact.html
 - work/deckler.html
-- work/anime-social.html
+- work/animxs.html
 - work/era-snacks.html
 
 TECHNOLOGY

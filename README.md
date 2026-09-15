@@ -9,7 +9,7 @@ Upload the contents of this folder to the existing GitHub Pages repository root.
 ## Pages
 
 - `index.html` — project-led home page
-- `deckler.html`, `anime-social.html`, `era-snacks.html` — case studies
+- `deckler.html`, `animxs.html`, `era-snacks.html` — case studies
 - `404.html` — custom missing-page state
 
 The project uses Google Fonts with robust system fallbacks. All project imagery is stored locally.
